@@ -13,7 +13,7 @@
     "angular-socket-io": "~0.6.0",
     "angular-tablesort": "~1.1.0",
     "angular-toastr": "~1.5.0",
-    "angular-ui-router": "~0.2.15",
+    "angular-ui-router": "1.0.10",
 
     "angular-material": "1.1.5",
     "angular-messages": "",
